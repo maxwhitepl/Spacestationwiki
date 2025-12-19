@@ -12,4 +12,3 @@
 ## PRACE
 
 * [Kapitan](prace/editor.md)
-* [Markdown](prace/markdown.md)

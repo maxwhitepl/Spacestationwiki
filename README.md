@@ -14,9 +14,7 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
+metaLinks: {}
 ---
 
 # Witaj w dokumentacji
@@ -25,7 +23,7 @@ Tutaj dowiesz się wszystkiego o Space Station 14 oraz działaniu serwera i prac
 
 ### Sprawdź
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>MAPA</strong></td><td>Zobacz jak wygląda statek</td><td><a href=".gitbook/assets/Zrzut ekranu 2025-12-17 203837.png">Zrzut ekranu 2025-12-17 203837.png</a></td><td></td><td><a href="hub/quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>PRACE</strong></td><td>Sprawdź listę prac</td><td><a href=".gitbook/assets/NTLogo (1).png">NTLogo (1).png</a></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>REGULAMIN</strong></td><td>Zasady panujące na naszym serwerze</td><td><a href=".gitbook/assets/800px-Job_tree3.png">800px-Job_tree3.png</a></td><td></td><td><a href="hub/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-bolt">:bolt:</i></td><td><strong>MAPA</strong></td><td>Zobacz jak wygląda statek</td><td><a href=".gitbook/assets/Zrzut ekranu 2025-12-17 203837.png">Zrzut ekranu 2025-12-17 203837.png</a></td><td></td><td><a href="hub/quickstart.md">quickstart.md</a></td></tr><tr><td><i class="fa-leaf">:leaf:</i></td><td><strong>PRACE</strong></td><td>Sprawdź listę prac</td><td><a href=".gitbook/assets/NTLogo (1).png">NTLogo (1).png</a></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><i class="fa-globe-pointer">:globe-pointer:</i></td><td><strong>REGULAMIN</strong></td><td>Zasady panujące na naszym serwerze</td><td><a href=".gitbook/assets/800px-Job_tree3.png">800px-Job_tree3.png</a></td><td></td><td><a href="hub/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
 
 ## GŁÓWNE ZASADY GRY
 
@@ -57,7 +55,7 @@ Ich celem jest przemienić się w [Zombie,](https://wiki.spacestation14.com/wiki
 
 Aby gra Czarodziej działała , na początku rundy musi być co najmniej 15 graczy. Pojawi się jeden czarodziej na jego statku – potężnym wahadłowcu, który dostarcza prawdziwego agenta chaosu pod drzwi NT14.
 
-Rolą Czarodzieja jest sianie chaosu, jakkolwiek uzna to za stosowne. Ma wolną rękę w kwestii wszystkiego, co służy pogłębianiu chaosu na stacji&#x20;
+Rolą Czarodzieja jest sianie chaosu, jakkolwiek uzna to za stosowne. Ma wolną rękę w kwestii wszystkiego, co służy pogłębianiu chaosu na stacji
 
 ### Zespół Kesslera
 
