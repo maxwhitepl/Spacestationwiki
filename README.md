@@ -51,13 +51,13 @@ Zasada gry Zombies `Zombie` wymaga co najmniej 20 graczy na początku rundy. Pom
 
 Ich celem jest przemienić się w [Zombie,](https://wiki.spacestation14.com/wiki/Zombie) gdy nadejdzie odpowiedni moment, by przejąć kontrolę nad stacją i jej załogą.
 
-### Czarodziej
+#### Czarodziej
 
 Aby gra Czarodziej działała , na początku rundy musi być co najmniej 15 graczy. Pojawi się jeden czarodziej na jego statku – potężnym wahadłowcu, który dostarcza prawdziwego agenta chaosu pod drzwi NT14.
 
 Rolą Czarodzieja jest sianie chaosu, jakkolwiek uzna to za stosowne. Ma wolną rękę w kwestii wszystkiego, co służy pogłębianiu chaosu na stacji
 
-### Zespół Kesslera
+#### Zespół Kesslera
 
 Syndrom Kesslera generuje `KesslerSyndrome`dużą liczbę meteorów, których liczba rośnie w trakcie rundy. Meteory będą generowane z tymi samymi obliczeniami, co w przypadku [zdarzeń Ramping Station](https://wiki.spacestation14.com/wiki/Game_Modes#Ramping_Station_Events) , ale zamiast tego będą wybierane z tabeli meteorów pokazanej w [Meteorach](https://wiki.spacestation14.com/wiki/Game_Modes#Meteors)
 
