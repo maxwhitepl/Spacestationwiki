@@ -14,7 +14,7 @@ Na Stacji Kosmicznej 14 stacje działają zgodnie ze skróconym prawem kosmiczny
 
 Zagraniczni najeźdźcy, tacy jak agenci nuklearni, ninja i piraci, nie są chronieni prawem kosmicznym. Zdrajcy nie są zagranicznymi najeźdźcami, więc zazwyczaj podlegają ochronie prawa kosmicznego.
 
-Prawo kosmiczne nie jest [regulaminem serwera](publish-your-docs.md), ale niektóre regulaminy odwołują się do Prawa kosmicznego i wymagają jego przestrzegania przez określone osoby lub w pewnym stopniu.
+Prawo kosmiczne nie jest [regulaminem serwera](regulamin.md), ale niektóre regulaminy odwołują się do Prawa kosmicznego i wymagają jego przestrzegania przez określone osoby lub w pewnym stopniu.
 
 ### Traktowanie więźniów
 

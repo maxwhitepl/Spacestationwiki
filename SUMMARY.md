@@ -4,9 +4,9 @@
 
 ## HUB
 
-* [REGULAMIN](hub/publish-your-docs.md)
+* [REGULAMIN](hub/regulamin.md)
 * [PRAWO KOSMICZNE](hub/prawo-kosmiczne.md)
-* [LISTA PRAC](hub/quickstart.md)
+* [LISTA PRAC](hub/prace.md)
 * [Mapa](hub/mapa.md)
 
 ## PRACE
