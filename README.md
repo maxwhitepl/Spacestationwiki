@@ -21,9 +21,19 @@ metaLinks: {}
 
 Tutaj dowiesz się wszystkiego o Space Station 14 oraz działaniu serwera i prac.
 
-### Sprawdź
+## Sprawdź
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-bolt">:bolt:</i></td><td><strong>MAPA</strong></td><td>Zobacz jak wygląda statek</td><td><a href=".gitbook/assets/Zrzut ekranu 2025-12-17 203837.png">Zrzut ekranu 2025-12-17 203837.png</a></td><td></td><td><a href="hub/prace.md">prace.md</a></td></tr><tr><td><i class="fa-leaf">:leaf:</i></td><td><strong>PRACE</strong></td><td>Sprawdź listę prac</td><td><a href=".gitbook/assets/NTLogo (1).png">NTLogo (1).png</a></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><i class="fa-globe-pointer">:globe-pointer:</i></td><td><strong>REGULAMIN</strong></td><td>Zasady panujące na naszym serwerze</td><td><a href=".gitbook/assets/800px-Job_tree3.png">800px-Job_tree3.png</a></td><td></td><td><a href="hub/regulamin.md">regulamin.md</a></td></tr></tbody></table>
+
+## Nanotrasen <a href="#firstheading" id="firstheading"></a>
+
+Nanotrasen to korporacja, dla której pracujesz, zarządzana przez swoje Dowództwo Centralne, a wszyscy pracownicy są zobowiązani do przestrzegania jej zasad. Nanotrasen jest właścicielem wielu stacji, takich jak niesławna Stacja Kosmiczna 13 i ta, na której obecnie się znajdujesz (Stacja Kosmiczna 14).
+
+Nanotrasen ma wielu wrogów, między innymi: <mark style="color:red;">**Syndykat**</mark>, konkurencyjne korporacje, takie jak **CyberSun**, oraz <mark style="color:$primary;">**Piratów**</mark>.
+
+Nanotrasen to organizacja przestrzegająca prawa, której głównym celem jest utrzymanie i ulepszanie stacji, przy jednoczesnym przetrwaniu i przestrzeganiu prawa.
+
+***
 
 ## GŁÓWNE ZASADY GRY
 
