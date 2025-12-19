@@ -1,7 +1,7 @@
 ---
 icon: reel
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
