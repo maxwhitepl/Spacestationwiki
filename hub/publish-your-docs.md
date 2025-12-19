@@ -15,10 +15,7 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/publish-your-docs
+metaLinks: {}
 ---
 
 # REGULAMIN
