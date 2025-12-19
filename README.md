@@ -21,7 +21,7 @@ metaLinks:
 
 # Witaj w dokumentacji
 
-Tutaj dowiesz się wszystkiego o Space Station 14 oraz działaniu serwera i prac
+Tutaj dowiesz się wszystkiego o Space Station 14 oraz działaniu serwera i prac.
 
 ### Sprawdź
 
