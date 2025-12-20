@@ -1,3 +1,7 @@
+---
+icon: light-emergency-on
+---
+
 # Poziomy alarmu
 
 Poziom alarmu stacji określa zagrożenia, z jakimi się ona mierzy, oraz procedury, które należy przestrzegać. Z powodu braku Procedury Alarmowej nie ma oficjalnych wytycznych. Mimo to istnieje wiele nieoficjalnych procedur, które stosują różne departamenty.
