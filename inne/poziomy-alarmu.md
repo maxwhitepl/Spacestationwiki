@@ -38,6 +38,8 @@ Istnieje znane zagrożenie, które zagraża całej załodze. Załoga niebędąca
 
 ## Niestandardowe poziomy alertów
 
+### ŻÓŁTY
+
 > <mark style="color:yellow;">Uwaga! Poziom alertu stacji jest teraz</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**żółty**</mark><mark style="color:yellow;">! Na terenie stacji występuje zagrożenie strukturalne lub atmosferyczne. Personelowi technicznemu zaleca się natychmiastową reakcję i podjęcie środków bezpieczeństwa. Członkom załogi zaleca się unikanie zagrożenia i pozostanie w miejscu pracy, jeśli to konieczne.</mark>
 
 {% file src="../.gitbook/assets/Notice1.ogg" %}
