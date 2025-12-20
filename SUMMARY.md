@@ -12,3 +12,7 @@
 ## PRACE
 
 * [Kapitan](prace/editor.md)
+
+## INNE
+
+* [Poziomy alarmu](inne/poziomy-alarmu.md)
