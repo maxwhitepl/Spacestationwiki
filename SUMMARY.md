@@ -13,6 +13,10 @@
 
 * [Kapitan](prace/editor.md)
 
+## Antagoniści
+
+* [Operatorzy jądrowi](antagonisci/operatorzy-jadrowi.md)
+
 ## INNE
 
 * [Poziomy alarmu](inne/poziomy-alarmu.md)
