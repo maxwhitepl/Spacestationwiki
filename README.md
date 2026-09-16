@@ -14,6 +14,12 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks: {}
 ---
 
@@ -21,9 +27,9 @@ metaLinks: {}
 
 Tutaj dowiesz się wszystkiego o Space Station 14 oraz działaniu serwera i prac.
 
-## Sprawdź
+## KATEGORIE
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-bolt">:bolt:</i></td><td><strong>MAPA</strong></td><td>Zobacz jak wygląda statek</td><td><a href=".gitbook/assets/Zrzut ekranu 2025-12-17 203837.png">Zrzut ekranu 2025-12-17 203837.png</a></td><td></td><td><a href="hub/prace.md">prace.md</a></td></tr><tr><td><i class="fa-leaf">:leaf:</i></td><td><strong>PRACE</strong></td><td>Sprawdź listę prac</td><td><a href=".gitbook/assets/NTLogo (1).png">NTLogo (1).png</a></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><i class="fa-globe-pointer">:globe-pointer:</i></td><td><strong>REGULAMIN</strong></td><td>Zasady panujące na naszym serwerze</td><td><a href=".gitbook/assets/800px-Job_tree3.png">800px-Job_tree3.png</a></td><td></td><td><a href="hub/regulamin.md">regulamin.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-bolt">:bolt:</i></td><td><strong>MAPA</strong></td><td>Zobacz jak wygląda nasz statek</td><td><a href=".gitbook/assets/Zrzut ekranu 2025-12-17 203837.png">Zrzut ekranu 2025-12-17 203837.png</a></td><td></td><td><a href="https://app.gitbook.com/s/mC1p83fUVY9J6CrORaqI/prace">PRACE</a></td></tr><tr><td><i class="fa-leaf">:leaf:</i></td><td><strong>PRACE</strong></td><td>Sprawdź listę prac jakie są na serwerze</td><td><a href=".gitbook/assets/NTLogo (1).png">NTLogo (1).png</a></td><td></td><td><a href="https://app.gitbook.com/s/mC1p83fUVY9J6CrORaqI/prace">PRACE</a></td></tr><tr><td><i class="fa-globe-pointer">:globe-pointer:</i></td><td><strong>REGULAMIN</strong></td><td>Zasady panujące na naszym serwerze</td><td><a href=".gitbook/assets/800px-Job_tree3.png">800px-Job_tree3.png</a></td><td></td><td><a href="hub/regulamin.md">regulamin.md</a></td></tr></tbody></table>
 
 ## Nanotrasen <a href="#firstheading" id="firstheading"></a>
 
@@ -47,19 +53,19 @@ Ich cele są określone przez ich cele i mogą obejmować wszystko, od drobnych 
 
 #### Agenci nuklearni
 
-Zasada gry „**Agenci Nuklearni**” `Nukeops` wymaga co najmniej 20 graczy na początku rundy. Na początku rundy w placówce Syndykatu pojawi się od 3 do 5 [Agentów Nuklearnych,](https://wiki.spacestation14.com/wiki/Nuclear_Operative) w stosunku jeden do dziesięciu, priorytetowo traktując najpierw Dowódcę, potem Agenta, a na końcu pozostałych agentów.
+Zasada gry „**Agenci Nuklearni**” `Nukeops` wymaga co najmniej 20 graczy na początku rundy. Na początku rundy w placówce Syndykatu pojawi się od 3 do 5 Agentów Nuklearnych, w stosunku jeden do dziesięciu, priorytetowo traktując najpierw Dowódcę, potem Agenta, a na końcu pozostałych agentów.
 
-Ich celem jest zdobycie [Dysku Uwierzytelniającego](https://wiki.spacestation14.com/wiki/Nuclear_Authentication_Disk) do bomby jądrowej i zdetonowanie Bomby jądrowej na pokładzie stacji.
+Ich celem jest zdobycie Dysku Uwierzytelniającego do bomby jądrowej i zdetonowanie Bomby jądrowej na pokładzie stacji.
 
 #### Rewolucjoniści
 
-Zasada gry „Rewolucjoniści” wymaga `Revolutionary`co najmniej 15 graczy na początku rundy. Na początku rundy 1-3 graczy z grupy jeden na piętnastu zostanie wyznaczonych na [Głownych Rewolucjonistów](https://wiki.spacestation14.com/wiki/Head_Revolutionary) , a następnie otrzymają oni latarkę i okulary przeciwsłoneczne. Jeśli zostanie wybrany Głowny Rewolucjonista, gracz ten może nie otrzymać roli z osłoną umysłu.
+Zasada gry „Rewolucjoniści” wymaga `Revolutionary`co najmniej 15 graczy na początku rundy. Na początku rundy 1-3 graczy z grupy jeden na piętnastu zostanie wyznaczonych na Głownych Rewolucjonistów , a następnie otrzymają oni latarkę i okulary przeciwsłoneczne. Jeśli zostanie wybrany Głowny Rewolucjonista, gracz ten może nie otrzymać roli z osłoną umysłu.
 
 #### Zombie
 
-Zasada gry Zombies `Zombie` wymaga co najmniej 20 graczy na początku rundy. Pomiędzy 10 a 15 minutą rundy, maksymalnie sześciu graczy zostanie oznaczonych jako [Początkowi Zakażeni](https://wiki.spacestation14.com/wiki/Initial_Infected) w stosunku jeden do dziesięciu. Jeśli zostanie wybrany Początkowy Zarażony, gracz ten może nie otrzymać roli z osłoną umysłu.
+Zasada gry Zombies `Zombie` wymaga co najmniej 20 graczy na początku rundy. Pomiędzy 10 a 15 minutą rundy, maksymalnie sześciu graczy zostanie oznaczonych jako Początkowi Zakażeni w stosunku jeden do dziesięciu. Jeśli zostanie wybrany Początkowy Zarażony, gracz ten może nie otrzymać roli z osłoną umysłu.
 
-Ich celem jest przemienić się w [Zombie,](https://wiki.spacestation14.com/wiki/Zombie) gdy nadejdzie odpowiedni moment, by przejąć kontrolę nad stacją i jej załogą.
+Ich celem jest przemienić się w Zombie, gdy nadejdzie odpowiedni moment, by przejąć kontrolę nad stacją i jej załogą.
 
 #### Czarodziej
 
@@ -69,12 +75,12 @@ Rolą Czarodzieja jest sianie chaosu, jakkolwiek uzna to za stosowne. Ma wolną 
 
 #### Zespół Kesslera
 
-Syndrom Kesslera generuje `KesslerSyndrome`dużą liczbę meteorów, których liczba rośnie w trakcie rundy. Meteory będą generowane z tymi samymi obliczeniami, co w przypadku [zdarzeń Ramping Station](https://wiki.spacestation14.com/wiki/Game_Modes#Ramping_Station_Events) , ale zamiast tego będą wybierane z tabeli meteorów pokazanej w [Meteorach](https://wiki.spacestation14.com/wiki/Game_Modes#Meteors)
+Syndrom Kesslera generuje `KesslerSyndrome`dużą liczbę meteorów, których liczba rośnie w trakcie rundy. Meteory będą generowane z tymi samymi obliczeniami, co w przypadku zdarzeń Ramping Station , ale zamiast tego będą wybierane z tabeli meteorów pokazanej w Meteorach
 
 #### Wydarzenia na stacji
 
-Wydarzenia Ramping Station `RampingStationEventScheduler` będą generować [wydarzenia](https://wiki.spacestation14.com/wiki/Game_Modes#Events) z rosnącą częstotliwością w trakcie rundy. Na początku rundy zostanie wybrana wartość Maksymalnego Chaosu między 9 a 15 i wartość Czasu Zakończenia między 67,5 a 112,5 minuty. Wartość Chaosu rozpocznie się od jednej dziesiątej wartości Maksymalnego Chaosu i będzie rosła liniowo, aż osiągnie Maksymalny Chaos w Czasie Zakończenia .
+Wydarzenia Ramping Station `RampingStationEventScheduler` będą generować wydarzenia z rosnącą częstotliwością w trakcie rundy. Na początku rundy zostanie wybrana wartość Maksymalnego Chaosu między 9 a 15 i wartość Czasu Zakończenia między 67,5 a 112,5 minuty. Wartość Chaosu rozpocznie się od jednej dziesiątej wartości Maksymalnego Chaosu i będzie rosła liniowo, aż osiągnie Maksymalny Chaos w Czasie Zakończenia .
 
-Harmonogram rozpocznie się od czasu odnowienia wynoszącego od 4 do 12 minut, podzielonego przez aktualną wartość Chaos . Następnie wybierze losowe [zdarzenie](https://wiki.spacestation14.com/wiki/Game_Modes#Event) do uruchomienia. Po zakończeniu zdarzenia wybierze nowy, prawdopodobnie krótszy, czas odnowienia, aby zaplanować kolejne zdarzenie.
+Harmonogram rozpocznie się od czasu odnowienia wynoszącego od 4 do 12 minut, podzielonego przez aktualną wartość Chaos . Następnie wybierze losowe zdarzenie do uruchomienia. Po zakończeniu zdarzenia wybierze nowy, prawdopodobnie krótszy, czas odnowienia, aby zaplanować kolejne zdarzenie.
 
 Po nadejściu Czasu Końca zdarzenia będą się powtarzać co 16–80 sekund.
