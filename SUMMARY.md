@@ -11,6 +11,7 @@
 
 ## PRACE
 
+* [CentCom](prace/centcom.md)
 * [Kapitan](prace/editor.md)
 
 ## Antagoniści
