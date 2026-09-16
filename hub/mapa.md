@@ -8,8 +8,6 @@ icon: map
 
 <figure><img src="../.gitbook/assets/Zrzut ekranu 2025-12-17 203837.png" alt=""><figcaption><p>Map: Plasma</p></figcaption></figure>
 
-Mapa dostępna pod: [https://map.spacestation14.com/?map=plasma](https://map.spacestation14.com/?map=plasma)
-
 ## SEKTORY
 
 ### SEKTOR DOWODZENIA
