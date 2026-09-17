@@ -3,31 +3,35 @@ icon: hand-wave
 layout:
   width: default
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
   anchors:
-    visible: true
+    visible: false
 metaLinks: {}
 ---
 
 # Witaj w dokumentacji
 
-Tutaj dowiesz się wszystkiego o Space Station 14 oraz działaniu serwera i prac.
+<figure><img src=".gitbook/assets/end.png" alt=""><figcaption></figcaption></figure>
 
-## KATEGORIE
+Tutaj dowiesz się wszystkiego o Space Station 14 oraz działaniu naszego serwera i jego prac.
+
+
+
+<h2 align="center">KATEGORIE</h2>
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-bolt">:bolt:</i></td><td><strong>MAPA</strong></td><td>Zobacz jak wygląda nasz statek</td><td><a href=".gitbook/assets/Zrzut ekranu 2025-12-17 203837.png">Zrzut ekranu 2025-12-17 203837.png</a></td><td></td><td><a href="https://app.gitbook.com/s/mC1p83fUVY9J6CrORaqI/prace">PRACE</a></td></tr><tr><td><i class="fa-leaf">:leaf:</i></td><td><strong>PRACE</strong></td><td>Sprawdź listę prac jakie są na serwerze</td><td><a href=".gitbook/assets/NTLogo (1).png">NTLogo (1).png</a></td><td></td><td><a href="https://app.gitbook.com/s/mC1p83fUVY9J6CrORaqI/prace">PRACE</a></td></tr><tr><td><i class="fa-globe-pointer">:globe-pointer:</i></td><td><strong>REGULAMIN</strong></td><td>Zasady panujące na naszym serwerze</td><td><a href=".gitbook/assets/800px-Job_tree3.png">800px-Job_tree3.png</a></td><td></td><td><a href="hub/regulamin.md">regulamin.md</a></td></tr></tbody></table>
 
